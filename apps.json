@@ -1,0 +1,48 @@
+[
+    {
+        "name": "names-bs",
+        "description": "displays a wordcloud for first names from Basel/Switzerland and allows the comparison of frequency over time for selected names to other names.",
+        "url": "https://names-ch.herokuapp.com/",
+        "git": "https://github.com/lcalmbach/names-ch",
+        "status": "active" ,
+        "language": "Python",
+        "data-source": "https://data.bs.ch/explore/dataset/100129",
+        "data-source-text": "data.bs"
+    },
+    {
+        "name": "delphi-bs",
+        "description": "Prototype for a information system adapted for handheld devices. Gives access to various datasets published by data.bs and the Office for Statistics of Basel/Switzerland.",
+        "url": "https://delphi-bs.herokuapp.com/",
+        "git": "https://github.com/lcalmbach/delphi-bs",
+        "status": "active" ,
+        "language": "Python"
+    },
+    {
+        "name": "foph-covid19-data-explorer",
+        "description": "This app allows to explore the datasets used in the Federal Office of Public Health's (FOPH) dashboard.",
+        "url": "https://foph-covid19-data-explorer.herokuapp.com/",
+        "git": "https://github.com/lcalmbach/foph-covid19-data-explorer",
+        "status": "active" ,
+        "language": "Python"
+    },
+    {
+        "name": "lqx-bs",
+        "description": "LQX-bs allows to explore air quality data from the station St. Johannplatz in Basel. data may be presented as statistics and in various plot-types. There is also an option to demonstrate the impact of fireworks.",
+        "url": "https://lqx-bs.herokuapp.com/",
+        "git": "https://github.com/lcalmbach/air-pollution-explorer",
+        "status": "active" ,
+        "language": "Python",
+        "data-source": "https://data.bs.ch/explore/dataset/100129",
+        "data-source-text": "data.bs"
+    },
+    {
+        "name": "speed-ex-bs",
+        "description": "Statistische und graphische Auswertung der Geschwindigkeitsübertretungen im Kanton Basel-Stadt seit 2018.",
+        "url": "https://speed-ex-bs.herokuapp.com/",
+        "git": "https://github.com/lcalmbach/air-pollution-explorer",
+        "status": "active" ,
+        "language": "Python",
+        "data-source": "https://data.bs.ch/explore/dataset/100129",
+        "data-source-text": "data.bs"
+    }
+]

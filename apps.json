@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "names-bs",
         "description": "displays a wordcloud for first names from Basel/Switzerland and allows the comparison of frequency over time for selected names to other names.",
         "url": "https://names-ch.herokuapp.com/",
@@ -7,25 +8,31 @@
         "status": "active" ,
         "language": "Python",
         "data-source": "https://data.bs.ch/explore/dataset/100129",
-        "data-source-text": "data.bs"
+        "data-source-text": "data.bs",
+        "publish-date": "2022-01-01"
     },
     {
+        "id": 2,
         "name": "delphi-bs",
         "description": "Prototype for a information system adapted for handheld devices. Gives access to various datasets published by data.bs and the Office for Statistics of Basel/Switzerland.",
         "url": "https://delphi-bs.herokuapp.com/",
         "git": "https://github.com/lcalmbach/delphi-bs",
         "status": "active" ,
-        "language": "Python"
+        "language": "Python",
+        "publish-date": "2022-01-01"
     },
     {
+        "id": 3,
         "name": "foph-covid19-data-explorer",
         "description": "This app allows to explore the datasets used in the Federal Office of Public Health's (FOPH) dashboard.",
         "url": "https://foph-covid19-data-explorer.herokuapp.com/",
         "git": "https://github.com/lcalmbach/foph-covid19-data-explorer",
         "status": "active" ,
-        "language": "Python"
+        "language": "Python",
+        "publish-date": "2022-01-01"
     },
     {
+        "id": 4,
         "name": "lqx-bs",
         "description": "LQX-bs allows to explore air quality data from the station St. Johannplatz in Basel. data may be presented as statistics and in various plot-types. There is also an option to demonstrate the impact of fireworks.",
         "url": "https://lqx-bs.herokuapp.com/",
@@ -33,16 +40,42 @@
         "status": "active" ,
         "language": "Python",
         "data-source": "https://data.bs.ch/explore/dataset/100129",
-        "data-source-text": "data.bs"
+        "data-source-text": "data.bs",
+        "publish-date": "2022-01-01"
     },
     {
+        "id": 5,
         "name": "speed-ex-bs",
         "description": "Statistische und graphische Auswertung der Geschwindigkeitsübertretungen im Kanton Basel-Stadt seit 2018.",
         "url": "https://speed-ex-bs.herokuapp.com/",
         "git": "https://github.com/lcalmbach/air-pollution-explorer",
         "status": "active" ,
         "language": "Python",
-        "data-source": "https://data.bs.ch/explore/dataset/100129",
-        "data-source-text": "data.bs"
+        "data-source": "https://data.bs.ch/explore/dataset/100097",
+        "data-source-text": "data.bs",
+        "publish-date": "2022-01-01"
+    },
+    {
+        "id": 6,
+        "name": "impf-prognose-bs",
+        "description": "This applicaton allows to estimate the current status of covid-19 vaccinations of the population of Basel/Switzerland. Current vaccination and population data is read from the opendata portal data.bs.ch",
+        "git": "https://github.com/lcalmbach/basel-impft",
+        "status": "archived" ,
+        "language": "Python",
+        "data-source": "https://data.bs.ch/explore/dataset/100162",
+        "data-source-text": "data.bs",
+        "publish-date": "2022-01-01"
+    },
+    {
+        "id": 7,
+        "name": "lukas-apps",
+        "description": "this is the app you are looking at. It's a very simple flask-app",
+        "git": "https://github.com/lcalmbach/lukas-apps",
+        "url": "https://lukas-apps.herokuapp.com/",
+        "status": "active" ,
+        "language": "Python",
+        "data-source": "https://data.bs.ch/explore/dataset/100162",
+        "data-source-text": "data.bs",
+        "publish-date": "2022-04-03"
     }
 ]

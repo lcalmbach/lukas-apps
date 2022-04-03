@@ -77,5 +77,27 @@
         "data-source": "https://data.bs.ch/explore/dataset/100162",
         "data-source-text": "data.bs",
         "publish-date": "2022-04-03"
+    },
+    {
+        "id": 8,
+        "name": "pgmn-report-generator",
+        "description": "This app generates water level reports for the Ontario Provincial Monitoring Network (PGMN). It also provides a simple example on how to generate a pdf document with figures and tables using python, pdfkit and jinja2",
+        "git": "https://github.com/lcalmbach/pgmn-report-generator",
+        "status": "archived" ,
+        "language": "Python",
+        "data-source": "https://data.bs.ch/explore/dataset/100162",
+        "data-source-text": "https://data.ontario.ca/dataset/provincial-groundwater-monitoring-network",
+        "publish-date": "2021-05-21"
+    },
+    {
+        "id": 9,
+        "name": "Rhein-Pegel",
+        "description": "Shows the Rhein-River-level in an animated barchart compared to precipitation in the same period.",
+        "git": "https://github.com/lcalmbach/rhein-pegel-bs",
+        "status": "archived" ,
+        "language": "Python",
+        "data-source": "https://data.bs.ch/explore/dataset/100089",
+        "data-source-text": "data.bs",
+        "publish-date": "2021-05-24"
     }
 ]

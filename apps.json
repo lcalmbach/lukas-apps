@@ -100,5 +100,17 @@
         "data-source": "https://data.bs.ch/explore/dataset/100089",
         "data-source-text": "data.bs",
         "publish-date": "2021-05-24"
+    },
+    {
+        "id": 10,
+        "name": "groundwater.bs",
+        "description": "App holds a series of interactive articles on groundwater quality and quantity in Basel",
+        "git": "https://github.com/lcalmbach/gw-temp-bs",
+        "url": "https://groundwater-bs.herokuapp.com/",
+        "status": "active" ,
+        "language": "Python",
+        "data-source": "https://data.bs.ch/explore/dataset/100067",
+        "data-source-text": "data.bs",
+        "publish-date": "2022-04-10"
     }
 ]

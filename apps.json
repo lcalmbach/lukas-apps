@@ -4,7 +4,7 @@
         "name": "names-bs",
         "description": "displays a wordcloud for first names from Basel/Switzerland and allows the comparison of frequency over time for selected names to other names.",
         "url": "https://names-ch.herokuapp.com/",
-        "git": "https://github.com/lcalmbach/names-ch",
+        "git": "https://github.com/lcalmbach/names-bs",
         "status": "active" ,
         "language": "Python",
         "data-source": "https://data.bs.ch/explore/dataset/100129",

@@ -69,7 +69,7 @@
     {
         "id": 7,
         "name": "lukas-apps",
-        "description": "this is the app you are looking at. It's a very simple flask-app",
+        "description": "This is the app you are looking at. It's a very simple flask-app listing all apps from my github repo.",
         "git": "https://github.com/lcalmbach/lukas-apps",
         "url": "https://lukas-apps.herokuapp.com/",
         "status": "active" ,
@@ -92,7 +92,7 @@
     {
         "id": 9,
         "name": "Rhein-Pegel",
-        "description": "Shows the Rhein-River-level in an animated barchart compared to precipitation in the same period.",
+        "description": "Shows the Rhine-River-level in an animated barchart compared to precipitation in the same period.",
         "git": "https://github.com/lcalmbach/rhein-pegel-bs",
         "url": "https://share.streamlit.io/lcalmbach/rhein-pegel-bs/main/app.py",
         "status": "active" ,
@@ -124,5 +124,30 @@
         "data-source": "https://data.bs.ch/explore/dataset/100067",
         "data-source-text": "data.bs",
         "publish-date": "2022-06-23"
+    },
+    {
+        "id": 12,
+        "name": "fontus",
+        "description": "Simple app to display the current temperature of the Rine River",
+        "git": "https://github.com/lcalmbach/bach-app",
+        "url": "https://fontus-wqex.herokuapp.com/",
+        "status": "under construction" ,
+        "language": "Python",
+        "data-source": "NA",
+        "data-source-text": "NA",
+        "publish-date": "NA"
+    },
+    {
+        "id": 14,
+        "name": "digital mailbox",
+        "description": "Simple drop box where files can be dropped together with the sender's name as well as optionally with a comment. The file log.csv keeps track of who dropped the files",
+        "git": "https://github.com/lcalmbach/digital-mailbox",
+        "url": "https://digital-mailbox.herokuapp.com/",
+        "status": "under construction" ,
+        "language": "Python",
+        "data-source": "NA",
+        "data-source-text": "NA",
+        "publish-date": "2022-08-13"
     }
 ]
+

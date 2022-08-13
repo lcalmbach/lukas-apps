@@ -101,6 +101,7 @@
         "data-source-text": "data.bs",
         "publish-date": "2021-05-24"
     },
+
     {
         "id": 10,
         "name": "groundwater.bs",
@@ -113,6 +114,7 @@
         "data-source-text": "data.bs",
         "publish-date": "2022-04-10"
     },
+    
     {
         "id": 11,
         "name": "bach-app",
@@ -125,18 +127,20 @@
         "data-source-text": "data.bs",
         "publish-date": "2022-06-23"
     },
+
     {
         "id": 12,
         "name": "fontus",
-        "description": "Simple app to display the current temperature of the Rine River",
-        "git": "https://github.com/lcalmbach/bach-app",
+        "description": "Under construction!",
+        "git": "https://github.com/lcalmbach/fontus",
         "url": "https://fontus-wqex.herokuapp.com/",
         "status": "under construction" ,
         "language": "Python",
         "data-source": "NA",
         "data-source-text": "NA",
-        "publish-date": "NA"
+        "publish-date": "2022-08-13"
     },
+
     {
         "id": 14,
         "name": "digital mailbox",

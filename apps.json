@@ -152,6 +152,32 @@
         "data-source": "NA",
         "data-source-text": "NA",
         "publish-date": "2022-08-13"
+    },
+
+    {
+        "id": 15,
+        "name": "smart-bs",
+        "description": "Visualizes sensor data of the smart-city project in Basel",
+        "git": "https://github.com/lcalmbach/smart-bs",
+        "url": "https://smart-bs.herokuapp.com/",
+        "status": "active",
+        "language": "Python",
+        "data-source": "NA",
+        "data-source-text": "NA",
+        "publish-date": "2022-10-10"
+    },
+
+    {
+        "id": 16,
+        "name": "el-verbrauch-ch",
+        "description": "Visualizes electricity consumption of the city of Zürich",
+        "git": "electricity-consumption-zh",
+        "url": "https://lcalmbach-electricity-consumption-zh-app-s7qtxg.streamlitapp.com/",
+        "status": "active" ,
+        "language": "Python",
+        "data-source": "NA",
+        "data-source-text": "NA",
+        "publish-date": "2022-10-11"
     }
 ]
 

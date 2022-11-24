@@ -5,7 +5,6 @@ from secrets import token_hex
 import json
 basedir = os.path.abspath(os.path.dirname(__file__))
 
-
 app = Flask(__name__)
 app.config["SECRET_KEY"] = "secretkey"
 

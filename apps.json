@@ -169,7 +169,7 @@
 
     {
         "id": 16,
-        "name": "el-verbrauch-ch",
+        "name": "el-verbrauch-zh",
         "description": "Visualizes electricity consumption of the city of Zürich",
         "git": "electricity-consumption-zh",
         "url": "https://lcalmbach-electricity-consumption-zh-app-s7qtxg.streamlitapp.com/",
@@ -178,6 +178,31 @@
         "data-source": "NA",
         "data-source-text": "NA",
         "publish-date": "2022-10-11"
+    },
+    {
+        "id": 17,
+        "name": "witterung-bs",
+        "description": "Allows to visualize > 100 years of weather data",
+        "git": "https://github.com/lcalmbach/impfviz",
+        "url": "https://lcalmbach-climate-bs-app-c6nya9.streamlit.app/",
+        "status": "active" ,
+        "language": "Python",
+        "data-source": "NA",
+        "data-source-text": "NA",
+        "publish-date": "2022-11-23"
+    },
+    {
+        "id": 18,
+        "name": "impfviz-bs",
+        "description": "In this app, vaccinations and infections are combined in a dataaset and the population vaccination state can be visualized resulting from both effects. The simulation also takes into account the estimation of the dark figure of non reported infections",
+        "git": "https://github.com/lcalmbach/climate-bs",
+        "url": "https://lcalmbach-impfviz-app-w423ly.streamlit.app/",
+        "status": "active" ,
+        "language": "Python",
+        "data-source": "NA",
+        "data-source-text": "NA",
+        "publish-date": "2022-11-17"
     }
+
 ]
 
